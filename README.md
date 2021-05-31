@@ -1,7 +1,5 @@
 Made with ❤️
 
-*Discord*: Praaannnn#5006
-
 <!--
 **nathanramli/nathanramli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
